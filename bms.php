@@ -46,7 +46,7 @@ function bms(){
       echo $result;
     }
 }
-echo "BMS Voucher Checker by BIMA_GATES \n\n";
+echo "BMS Voucher Checker by 404 \n\n";
 echo "Input Jumlah: ";
 $jumlah = read();
 for ($x = 0; $x <= $jumlah; $x++){
